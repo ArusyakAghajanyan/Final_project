@@ -16,7 +16,8 @@
    position: absolute;
    display: flex;
    flex-direction: column;
-   background-image: url(https://wallpaperaccess.com/full/656670.jpg);
+   /* background-image: url(https://wallpaperaccess.com/full/656670.jpg); */
+   background-image: url(./photos/IMG_6059.jpg);
    width: 1922px;
    height: 969px;
    left: 0px;
